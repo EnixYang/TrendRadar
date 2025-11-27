@@ -1,5 +1,4 @@
-胖东来
-于东来
+台湾
 
 DeepSeek
 梁文锋
@@ -18,10 +17,10 @@ DJI
 宇树
 王兴兴
 
-智元
-灵犀
-稚晖君
-彭志辉
+昭和米国物语
+
+epic
+steam
 
 黑神话
 冯骥
@@ -40,43 +39,10 @@ DJI
 刘慈欣
 郭帆
 
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
 chatgpt
 openai
 sora
 
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
@@ -98,16 +64,4 @@ ai
 
 科技
 
-核能
 
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空

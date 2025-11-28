@@ -1,8 +1,5 @@
 台湾
 
-DeepSeek
-梁文锋
-
 华为
 鸿蒙
 HarmonyOS
@@ -42,8 +39,8 @@ steam
 chatgpt
 openai
 sora
-
-
+DeepSeek
+梁文锋
 ai
 !gai
 人工智能
